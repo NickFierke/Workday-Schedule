@@ -21,6 +21,6 @@ THEN the saved events persist
 
 ## Screenshots and Links
 
-[Github Repo](https://github.com/NickFierke/Workday-Schedule)
+[Github Repo](https://github.com/NickFierke/Workday-Schedule)\
 [Live URL](https://nickfierke.github.io/Workday-Schedule/)
 ![screenshot](Capture.PNG)
